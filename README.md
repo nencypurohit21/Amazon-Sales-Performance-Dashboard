@@ -12,7 +12,7 @@ The dashboard enable dynamic filtering and real-time KPI tracking to monitor sal
 ---
 
 ## Dashboard Preview 
-![Amazon Sales Dashboard](image/Amazon Dashboard.png)
+![Amazon Sales Dashboard](image/Amazon_Dashboard.png)
 
 ## 📊Key Insights $ KPIs
 The dashboard tracks:
